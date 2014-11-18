@@ -4,7 +4,7 @@
 > 北京，男，1983年  
 > [zzswang@gmail.com](zzswang@gmail.com)  
 > (+86) 186-0020-6904
-> [Download PDF](resume.pdf)  
+> [Download PDF](index.pdf)  
 
 ------
 
