@@ -55,6 +55,11 @@
   __2010年初至年2010年秋__
   在网易有道广告组实习，负责Java服务器开发相关工作
 
+36node
+: *为公司订餐开发的一个有意思的小项目[http://www.36node.com](http://www.36node.com)*
+  完整的体验了一个互联网产品从无到有的一个过程，有一个轻型团队业余时间大家一起做出来的，技术上采用RESTFUL架构，语言采用nodejs作为快速开发搭建手段。
+  登陆用户名 admin@36node.com  密码 mse@2008 
+
 ------
 
 ### 学历 {#degree}
@@ -74,6 +79,6 @@
 
 微信: [zzswang](./img/qrcode.png)          
 Github: [https://github.com/zzswang](https://github.com/zzswang)  
-运营网站: [http://www.36node.com](http://www.36node.com)
+
 
 ------
